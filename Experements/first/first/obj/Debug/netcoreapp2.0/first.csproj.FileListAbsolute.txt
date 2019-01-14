@@ -1,0 +1,11 @@
+C:\Users\Shaheer Akram\source\repos\first\first\bin\Debug\netcoreapp2.0\first.deps.json
+C:\Users\Shaheer Akram\source\repos\first\first\bin\Debug\netcoreapp2.0\first.runtimeconfig.json
+C:\Users\Shaheer Akram\source\repos\first\first\bin\Debug\netcoreapp2.0\first.runtimeconfig.dev.json
+C:\Users\Shaheer Akram\source\repos\first\first\bin\Debug\netcoreapp2.0\first.dll
+C:\Users\Shaheer Akram\source\repos\first\first\bin\Debug\netcoreapp2.0\first.pdb
+C:\Users\Shaheer Akram\source\repos\first\first\obj\Debug\netcoreapp2.0\first.csprojResolveAssemblyReference.cache
+C:\Users\Shaheer Akram\source\repos\first\first\obj\Debug\netcoreapp2.0\first.csproj.CoreCompileInputs.cache
+C:\Users\Shaheer Akram\source\repos\first\first\obj\Debug\netcoreapp2.0\first.AssemblyInfoInputs.cache
+C:\Users\Shaheer Akram\source\repos\first\first\obj\Debug\netcoreapp2.0\first.AssemblyInfo.cs
+C:\Users\Shaheer Akram\source\repos\first\first\obj\Debug\netcoreapp2.0\first.dll
+C:\Users\Shaheer Akram\source\repos\first\first\obj\Debug\netcoreapp2.0\first.pdb

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\work\ned\2nd semester\oop\assingment 1\q 1\q 1\source.cpp(14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\work\ned\2nd semester\oop\assingment 1\q 1\q 1\source.cpp(18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Q 1.vcxproj -> C:\Work\NED\2nd Semester\OOP\Assingment 1\Q 1\Debug\Q 1.exe
